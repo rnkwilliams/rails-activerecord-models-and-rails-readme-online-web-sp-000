@@ -6,3 +6,4 @@ describe Post do
     expect(post).to be_valid
   end
 end
+
